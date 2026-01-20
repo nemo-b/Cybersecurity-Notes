@@ -1,21 +1,41 @@
-# Hi, I'm Nehemiah 👋
-CompTIA Security+ Certified | Aspiring SOC Analyst | Incident Response, SIEM, Log Analysis  
+## 📘 Cybersecurity Notes
 
-🔹 Currently learning: Security+ | Linux fundamentals | SIEM tools  
-🔹 Building hands-on projects: Incident response labs, log analysis, password audit scripts  
-🔹 Interests: Threat detection, blue team tactics, automation in SOC work  
+This repository contains my **structured study notes and reflections** from formal cybersecurity learning, certifications, and guided coursework.
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/nehemiah-bekele-b6a18b359) | [Email](mailto:nehemiahstar@outlook.com)
+These notes exist to capture **core concepts, terminology, and mental models** that support my hands-on projects and labs, which live in separate repositories.
 
 ---
 
-- [Google Cybersecurity Certificate](./google-cybersecurity)  
-  Notes and reflections from completing Google’s cybersecurity program.  
-- [Security+ Notes](./security-plus)  
-  My personal notes from passing the CompTIA Security+ exam.  
-- [Labs & Projects](./labs)  
-  Hands-on writeups, practice environments, and exercises I’ve built or tested.  
+## 📂 Contents
+
+### 🔐 CompTIA Security+ Notes
+- Personal notes from studying for and passing the CompTIA Security+ certification  
+- Focused on understanding *why* concepts matter, not just memorization  
+- Includes summaries, examples, and clarification of tricky topics  
+
+📁 Folder: `security-plus/`
 
 ---
 
-📝 *This is a living collection. I’ll keep updating and refining as I learn more.*
+### 🛡️ Google Cybersecurity Certificate Notes
+- Notes and reflections from completing Google’s Cybersecurity program  
+- Covers foundational security principles, tooling exposure, and workflows  
+- Serves as early groundwork for later hands-on practice  
+
+📁 Folder: `google-cybersecurity/`
+
+---
+
+## 🎯 Purpose of This Repository
+
+This repo is intentionally **notes-only**. It exists to:
+
+- Reinforce long-term understanding of security concepts  
+- Document how I break down and internalize complex topics  
+- Complement hands-on labs and projects without mixing concerns  
+
+For practical implementations, environments, and experiments, see my **Projects** and **SOC Home Lab** repositories.
+
+---
+
+📝 *This collection evolves as my understanding deepens and my skills mature.*
